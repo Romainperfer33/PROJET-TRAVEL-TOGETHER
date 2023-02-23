@@ -16,6 +16,7 @@ img.imgtravel {
 
 #phone .back {
   background-color: salmon;
+  box-shadow: 0 0 0.5em black;
 }
 #phone .row {
   overflow: hidden;
@@ -35,6 +36,37 @@ img.imgtravel {
 }
 #phone img {
   margin-left: 200px;
+}
+
+#services .bougies {
+  background-image: url(../img/img/homme-assis-batiment.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 639px;
+  height: 400px;
+  box-shadow: 0 0 0.5em black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#services h2 {
+  color: black;
+  font-size: 3rem;
+}
+#services h3 {
+  color: white;
+}
+#services a {
+  text-decoration: none;
+  color: white;
+  font-family: "Roboto-Thin";
+}
+#services .la {
+  display: flex;
+}
+#services .passeport {
+  background-image: url(../img/img/passport.jpg);
 }
 
 /*# sourceMappingURL=style.css.map */

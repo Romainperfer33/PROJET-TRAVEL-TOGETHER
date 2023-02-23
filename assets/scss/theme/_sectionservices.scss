@@ -1,0 +1,37 @@
+#services {
+
+    .bougies {
+        background-image:url(../img/img/homme-assis-batiment.jpg);
+        background-position: center;
+        background-size: cover;
+        width: 639px;
+        height: 400px;
+        box-shadow: $shadow;
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+    }
+
+    h2 {
+        color: $noir;
+        font-size: 3rem;
+    }
+
+    h3 {
+        color: $blanc;
+    }
+
+    a {
+        text-decoration: none;
+        color: $blanc;
+        font-family: $font-robotothin;
+    }
+
+    .la {
+        display: flex;
+    }
+    .passeport {
+        background-image: url(../img/img/passport.jpg);
+    }
+}
