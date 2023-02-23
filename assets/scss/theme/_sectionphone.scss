@@ -1,0 +1,30 @@
+
+#phone {
+    .back {
+        background-color: $orange;
+    }
+
+    .row {
+        overflow: hidden;
+        height: 400px;
+    }
+
+    h1 {
+        color: $blanc;
+        font-weight: bold;
+    }
+
+    .paraa {
+        color: $blanc;
+        font-size: 13px;
+        font-family: $font-robotothin;
+    }
+
+    .ombre {
+        box-shadow: $shadow;
+    }
+
+    img {
+        margin-left: 200px;
+    }
+}

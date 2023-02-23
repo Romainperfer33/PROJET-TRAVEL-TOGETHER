@@ -1,0 +1,11 @@
+$font-roboto: "Roboto-regular";
+@font-face {
+    font-family: $font-roboto;
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+
+$font-robotothin: "Roboto-Thin";
+@font-face {
+    font-family: $font-robotothin;
+    src: url(../fonts/Roboto/Roboto-Thin.ttf);
+}

@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "Roboto-regular";
+  src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: "Roboto-Thin";
+  src: url(../fonts/Roboto/Roboto-Thin.ttf);
+}
+body {
+  font-family: "Roboto-regular";
+}
+
+img.imgtravel {
+  width: 100px;
+}
+
+#phone .back {
+  background-color: salmon;
+}
+#phone .row {
+  overflow: hidden;
+  height: 400px;
+}
+#phone h1 {
+  color: white;
+  font-weight: bold;
+}
+#phone .paraa {
+  color: white;
+  font-size: 13px;
+  font-family: "Roboto-Thin";
+}
+#phone .ombre {
+  box-shadow: 0 0 0.5em black;
+}
+#phone img {
+  margin-left: 200px;
+}
+
+/*# sourceMappingURL=style.css.map */
